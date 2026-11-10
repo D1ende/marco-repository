@@ -1,0 +1,18 @@
+body {
+  background-color: lightgray;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  font-size: 50px;
+  color: red;
+}
+
+button {
+  padding: 10px;
+  background-color: yellow;
+}
